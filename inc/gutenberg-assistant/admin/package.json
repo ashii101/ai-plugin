@@ -10,7 +10,7 @@
     "@types/wordpress__data": "^4.6.11",
     "@types/wordpress__html-entities": "^2.7.0",
     "@types/wordpress__url": "^2.14.0",
-    "@wordpress/scripts": "^26.16.0",
+    "@wordpress/scripts": "^26.18.0",
     "postcss": "^8.4.21",
     "postcss-nested": "^6.0.1",
     "tailwindcss": "^3.3.1"
